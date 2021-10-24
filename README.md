@@ -1,4 +1,6 @@
-# Ödev 5
+## Ödev 5
+
+[FRONTEND](https://617500a540ba11a0a4ff8cd2--agitated-goldberg-4f2a8a.netlify.app/)
 
 ## Gereksinimler
   - Aşağıda çalışır hali paylaşılan uygulamayı bir React uygulaması olarak geliştirmek. 
